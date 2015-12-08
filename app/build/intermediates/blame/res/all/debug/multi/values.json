@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\rybackpo\\AndroidStudioProjects\\Bitmap Plasma\\app\\build\\intermediates\\res\\merged\\all\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "C:\\Users\\rybackpo\\AndroidStudioProjects\\Bitmap Plasma\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,4 @@
+See file:///C:/Users/rybackpo/AndroidStudioProjects/Bitmap%20Plasma/app/build/tmp/compileArmeabiDebugAllPlasmaSharedLibraryPlasmaMainC/output.txt for all output for compileArmeabiDebugAllPlasmaSharedLibraryPlasmaMainC.
+compiling plasma.c successful.
+
+Finished compileArmeabiDebugAllPlasmaSharedLibraryPlasmaMainC, see full log file:///C:/Users/rybackpo/AndroidStudioProjects/Bitmap%20Plasma/app/build/tmp/compileArmeabiDebugAllPlasmaSharedLibraryPlasmaMainC/output.txt.
